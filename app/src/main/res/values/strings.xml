@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReconocimientoFacialApp</string>
+    <string name="message_welcome">Bienvenido!</string>
+</resources>
